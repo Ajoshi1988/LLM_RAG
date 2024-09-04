@@ -1,0 +1,14 @@
+Quantum computing is a multidisciplinary field comprising aspects of computer science, physics, and mathematics that utilizes quantum mechanics to solve complex problems faster than on classical computers. 
+The field of quantum computing includes hardware research and application development. Quantum computers are able to solve certain types of problems faster than classical computers by taking advantage of quantum mechanical effects, such as superposition and quantum interference. 
+Some applications where quantum computers can provide such a speed boost include machine learning (ML), optimization, and simulation of physical systems. Eventual use cases could be portfolio optimization in finance or the simulation of chemical systems, solving problems that are currently impossible for even the most powerful supercomputers on the market.
+
+Currently, no quantum computer can perform a useful task faster, cheaper, or more efficiently than a classical computer. Quantum advantage is the threshold where we have built a quantum system that can perform operations that the best possible classical computer cannot simulate in any kind of reasonable time.
+
+Quantum mechanics is the area of physics that studies the behavior of particles at a microscopic level. At subatomic levels, the equations that describe how particles behave is different from those that describe the macroscopic world around us. Quantum computers take advantage of these behaviors to perform computations in a completely new way.
+
+Quantum bits, or qubits, are represented by quantum particles. The manipulation of qubits by control devices is at the core of a quantum computer's processing power. Qubits in quantum computers are analogous to bits in classical computers. At its core, a classical machine's processor does all its work by manipulating bits. Similarly, the quantum processor does all its work by processing qubits.
+
+In classical computing, a bit is an electronic signal that is either on or off. The value of the classical bit can thus be one (on) or zero (off). However, because the qubit is based on the laws of quantum mechanics it can be placed in a superposition of states.
+
+
+Principles of quantum computing  are Superposition, Entanglement, Decoherence.

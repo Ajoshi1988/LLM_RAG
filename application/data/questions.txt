@@ -1,0 +1,7 @@
+Economy:
+1) Enlist the popular Free trade agreements.
+2) Give me the top 5 leading countries in world economy.
+
+Artificial Intelligence:
+1) Tell us the popular applications of AI.
+2) In less than 300 words, give a brief account of threats associated with AI.

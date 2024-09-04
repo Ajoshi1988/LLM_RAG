@@ -1,0 +1,17 @@
+Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems.It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.[1] Such machines may be called AIs.
+
+
+Goals of AI:Reasoning and problem-solving, Knowledge representation, Planning and decision-making, Learning, Natural language processing, Perception, Social intelligence and General Intelligence.
+
+Techniques of AI: Search and optimization, Probabilistic methods for uncertain reasoning, Classifiers and statistical learning methods, Artificial neural networks, Deep learning.
+
+Applications of AI: Health and medicine, Games, Mathematics, Finance, Military, Generative AI
+
+Risks associated with AI:1) Data Privacy, AI-powered devices and services, such as virtual assistants and IoT products, continuously collect personal information, raising concerns about intrusive data gathering and unauthorized access by third parties. The loss of privacy is further exacerbated by AI's ability to process and combine vast amounts of data, potentially leading to a surveillance society where individual activities are constantly monitored and analyzed without adequate safeguards or transparency. 2)Dominance by tech giants. The commercial AI scene is dominated by Big Tech companies such as Alphabet Inc., Amazon, Apple Inc., Meta Platforms, and Microsoft. Some of these players already own the vast majority of existing cloud infrastructure and computing power from data centers, allowing them to entrench further in the marketplace.
+3)Algorithmic bias and fairness. Machine learning applications will be biased[k] if they learn from biased data.[195] The developers may not be aware that the bias exists.[196] Bias can be introduced by the way training data is selected and by the way a model is deployed.[197][195] If a biased algorithm is used to make decisions that can seriously harm people (as it can in medicine, finance, recruitment, housing or policing) then the algorithm may cause discrimination.[198] The field of fairness studies how to prevent harms from algorithmic biases.
+
+
+
+
+
+
