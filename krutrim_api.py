@@ -4,7 +4,7 @@ from openai import OpenAI
 
 
 openai = OpenAI(
-    api_key="7~Nm-Y-ALg~_fwY~4A/Vq5A.7~k", # Refer to Create a secret key section
+    api_key="api_key", # Refer to Create a secret key section
     base_url="https://cloud.olakrutrim.com/v1",
 )
   
